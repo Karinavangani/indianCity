@@ -1,0 +1,65 @@
+<style type="text/css">
+        p{font-family: helvetica;
+        font-size:100px;
+        text-align:justify;
+        font-color: white;
+        }
+        #secondDiv{
+          background-color:light blue;
+          margin:10px;
+          padding:15px;
+          background: url("http://image3.mouthshut.com/images/imagesp/925752662s.jpg");
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          background-size: cover;
+          background-attachment: fixed;
+          background-position: absolute;
+          background-size: contain;
+          background-repeat: no-repeat;
+          background-size: 100%;
+          }
+
+        article{
+          max-width: 500px;
+          padding:20px;
+          margin: 0 auto;
+        }
+        @media (max-width: 500px){
+          body{
+            background-color: light blue;
+          }
+        }
+        .custom{
+          color: white;
+        }
+        ul{
+          padding: 10px;
+          background:rgba(0,0,0,0.5);
+        }
+        
+
+        
+
+        a{
+          color:navy;  
+        }
+        input[type="submit"]{
+          background-color:maroon;
+          color:white;
+          }
+        h1,h2{
+          color: maroon;
+          font-weight: bold;
+        }
+        
+        ul{ 
+         text-align:left;
+          color:white;
+        }
+        button:hover{
+             background: maroon;
+             color:white;
+        }
+  <style>
+
